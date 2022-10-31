@@ -16,4 +16,4 @@ Install-WindowsFeature -Name Windows-Server-Backup
 
 Install-WindowsFeature -Name SNMP-Service -IncludeAllSubFeature
 
-Set-TimeZone -id Central Standard Time
+Set-TimeZone -id "Central Standard Time"
